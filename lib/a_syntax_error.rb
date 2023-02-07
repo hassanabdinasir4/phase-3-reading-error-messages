@@ -1,3 +1,1 @@
-x = 1
-
-x = 
+3.times do puts "hello" end 
