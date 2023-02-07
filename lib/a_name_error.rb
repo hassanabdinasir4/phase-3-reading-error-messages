@@ -1,1 +1,4 @@
-a_variable = 4
+"hello world"
+
+hello_world = "hello world"
+

@@ -1,1 +1,3 @@
-3.times do puts "hello" end 
+x = 1
+
+x = 1.times do puts "1" end
